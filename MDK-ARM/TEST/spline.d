@@ -1,0 +1,16 @@
+test\spline.o: ..\ZLG_GUI\spline.c
+test\spline.o: ..\ZLG_GUI\config.h
+test\spline.o: ..\ZLG_GUI\LCMDRV.H
+test\spline.o: ..\ZLG_GUI\FONT_MACRO.H
+test\spline.o: ..\ZLG_GUI\GUI_CONFIG.H
+test\spline.o: ..\ZLG_GUI\GUI_BASIC.H
+test\spline.o: ..\ZLG_GUI\GUI_STOCKC.H
+test\spline.o: ..\ZLG_GUI\FONT5_7.H
+test\spline.o: ..\ZLG_GUI\FONT8_8.H
+test\spline.o: ..\ZLG_GUI\FONT24_32.H
+test\spline.o: ..\ZLG_GUI\LOADBIT.H
+test\spline.o: ..\ZLG_GUI\WINDOWS.H
+test\spline.o: ..\ZLG_GUI\MENU.H
+test\spline.o: ..\ZLG_GUI\spline.H
+test\spline.o: ..\ZLG_GUI\ConvertColor.H
+test\spline.o: C:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

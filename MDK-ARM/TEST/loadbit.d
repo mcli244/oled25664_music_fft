@@ -1,0 +1,15 @@
+test\loadbit.o: ..\ZLG_GUI\loadbit.c
+test\loadbit.o: ..\ZLG_GUI\config.h
+test\loadbit.o: ..\ZLG_GUI\LCMDRV.H
+test\loadbit.o: ..\ZLG_GUI\FONT_MACRO.H
+test\loadbit.o: ..\ZLG_GUI\GUI_CONFIG.H
+test\loadbit.o: ..\ZLG_GUI\GUI_BASIC.H
+test\loadbit.o: ..\ZLG_GUI\GUI_STOCKC.H
+test\loadbit.o: ..\ZLG_GUI\FONT5_7.H
+test\loadbit.o: ..\ZLG_GUI\FONT8_8.H
+test\loadbit.o: ..\ZLG_GUI\FONT24_32.H
+test\loadbit.o: ..\ZLG_GUI\LOADBIT.H
+test\loadbit.o: ..\ZLG_GUI\WINDOWS.H
+test\loadbit.o: ..\ZLG_GUI\MENU.H
+test\loadbit.o: ..\ZLG_GUI\spline.H
+test\loadbit.o: ..\ZLG_GUI\ConvertColor.H

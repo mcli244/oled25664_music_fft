@@ -1,0 +1,15 @@
+test\convertcolor.o: ..\ZLG_GUI\ConvertColor.c
+test\convertcolor.o: ..\ZLG_GUI\config.h
+test\convertcolor.o: ..\ZLG_GUI\LCMDRV.H
+test\convertcolor.o: ..\ZLG_GUI\FONT_MACRO.H
+test\convertcolor.o: ..\ZLG_GUI\GUI_CONFIG.H
+test\convertcolor.o: ..\ZLG_GUI\GUI_BASIC.H
+test\convertcolor.o: ..\ZLG_GUI\GUI_STOCKC.H
+test\convertcolor.o: ..\ZLG_GUI\FONT5_7.H
+test\convertcolor.o: ..\ZLG_GUI\FONT8_8.H
+test\convertcolor.o: ..\ZLG_GUI\FONT24_32.H
+test\convertcolor.o: ..\ZLG_GUI\LOADBIT.H
+test\convertcolor.o: ..\ZLG_GUI\WINDOWS.H
+test\convertcolor.o: ..\ZLG_GUI\MENU.H
+test\convertcolor.o: ..\ZLG_GUI\spline.H
+test\convertcolor.o: ..\ZLG_GUI\ConvertColor.H
