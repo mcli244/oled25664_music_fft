@@ -1,5 +1,5 @@
 ---
-typora-root-url: image
+typora-root-url: ./image
 ---
 
 # FFT-25664音乐频谱简介
@@ -11,6 +11,6 @@ typora-root-url: image
 
 ## 成品效果图
 
-![fft显示效果](/fft.png)
+![fft显示效果](./image/fft.png)
 
-![时间和日期显示效果](/time.png)
+![时间和日期显示效果](./image/time.png)
